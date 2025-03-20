@@ -5,9 +5,9 @@ By [Lilly Emerson](https://www.linkedin.com/in/lilly-e-emerson/)
 
 ## Table of Contents
 ### Part 0: Introduction
-1. [Introduction](./Introduction/Introduction.md)
-2. [How to Use This Document](./Introduction/How%20to%20Use.md)
-3. [Why OOP?](./Introduction/Why%20OOP.md)
+1. [Introduction](introduction/Introduction.md)
+2. [How to Use This Document](introduction/How%20to%20Use.md)
+3. [Why OOP?](introduction/Why%20OOP.md)
 
 ### Part 1: Foundational Concepts
 1. [Overview of Object-Oriented Programming]()
@@ -33,4 +33,4 @@ By [Lilly Emerson](https://www.linkedin.com/in/lilly-e-emerson/)
 5. [FLUID Tests and Alternatives]()
 6. [Test Frameworks as API Design]()
 
-[Next: Introduction &rarr;](./Introduction/Introduction.md)
+[Next: Introduction &rarr;](./introduction/introduction.md)

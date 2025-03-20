@@ -14,4 +14,4 @@ This is not intended to be a manifesto of the "right" way to do testing,
 nor to denigrate other approaches. Instead, I hope this can be a starting point for discussion
 about how to approach end-to-end testing in a disciplined way.
 
-[Next: How to Use This Document &rarr;](./How%20to%20Use.md)
+[Next: How to Use This Document &rarr;](./how-to-use.md)
