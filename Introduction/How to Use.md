@@ -1,4 +1,6 @@
 # How to Use This Document
+[&larr; Previous: Introduction](./Introduction.md)
+
 This document can either be read sequentially or just for specific chapters.
 That said, some concepts will build on and refer to previous ones; knowledge of
 previous chapters will be assumed.
@@ -14,3 +16,5 @@ while others will likely need to be implemented by test maintainers.
 Finally, Part 3 provides some practical advice and suggestions on building and maintaining a test project.
 The examples in this section will generally be more concrete, and may or may not apply to any specific
 project. Feel free to take from this section whatever you find useful.
+
+[Next: Why OOP? &rarr;](./Why%20OOP.md)

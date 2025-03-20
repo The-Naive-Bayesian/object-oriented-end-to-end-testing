@@ -1,4 +1,6 @@
 # Introduction
+[&larr; Previous: Table of Contents](../README.md#table-of-contents)
+
 End-to-end testing is something of a wild west in the tech industry.
 
 There are certainly a number of common tools (Selenium, Cypress, Playwright)
@@ -11,3 +13,5 @@ I decided to write this document to state my own personal approach to test autom
 This is not intended to be a manifesto of the "right" way to do testing,
 nor to denigrate other approaches. Instead, I hope this can be a starting point for discussion
 about how to approach end-to-end testing in a disciplined way.
+
+[Next: How to Use This Document &rarr;](./How%20to%20Use.md)
