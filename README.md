@@ -4,7 +4,7 @@ A guide on how to approach end-to-end testing using an approach rooted in object
 By [Lilly Emerson](https://www.linkedin.com/in/lilly-e-emerson/)
 
 ## Table of Contents
-### Introduction
+### Part 0: Introduction
 1. [Introduction](./Introduction/Introduction.md)
 2. [How to Use This Document](./Introduction/How%20to%20Use.md)
 3. [Why OOP?](./Introduction/Why%20OOP.md)
