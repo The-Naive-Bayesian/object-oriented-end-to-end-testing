@@ -1,14 +1,14 @@
-# Object Oriented End to End Testing
-A guide on how to approach end to end testing using an approach rooted in object oriented programming
+# Object-Oriented End-to-End Testing
+A guide on how to approach end-to-end testing using an approach rooted in object-oriented programming
 
 ## Table of Contents
 ### Introduction
-1. [Introduction]()
-2. [How to Use This Document]()
-3. [Why OOP?]()
+1. [Introduction](./Introduction/Introduction.md)
+2. [How to Use This Document](./Introduction/How%20to%20Use.md)
+3. [Why OOP?](./Introduction/Why%20OOP.md)
 
 ### Part 1: Foundational Concepts
-1. [Overview of Object Oriented Programming]()
+1. [Overview of Object-Oriented Programming]()
 2. [Class Inheritance and Composition]()
 3. [Levels of Abstraction]() 
 4. [Don't Repeat Yourself (DRY)]()
