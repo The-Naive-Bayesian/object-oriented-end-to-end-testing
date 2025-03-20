@@ -1,5 +1,7 @@
 # Object-Oriented End-to-End Testing
-A guide on how to approach end-to-end testing using an approach rooted in object-oriented programming
+A guide on how to approach end-to-end testing using an approach rooted in object-oriented programming.
+
+By [Lilly Emerson](https://www.linkedin.com/in/lilly-e-emerson/)
 
 ## Table of Contents
 ### Introduction
